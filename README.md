@@ -71,6 +71,10 @@
 
 👤 **Author2**
 
+- GitHub: [@Xecyc](https://github.com/Xecyc/)
+- Twitter: [@jesm0r](https://twitter.com/jesm0r)
+- LinkedIn: [jesús Moreno](https://linkedin.com/in/jesús-moreno-b4276a178/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
