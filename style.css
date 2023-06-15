@@ -1,0 +1,50 @@
+* {
+  list-style: none;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.headline {
+  background-image: url("./img/Header\ bg.png");
+  min-height: 60vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 30%;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  background-color: #c1c7d0;
+  border-radius: 50%;
+  display: block;
+}
+
+main {
+  background-color: #e5e5e59c;
+}
+
+.custom-primary {
+  color: #6070ff;
+  background-color: #ebebff;
+}
+
+.mb-6 {
+  margin-bottom: 142px;
+}
+
+.form-section {
+  background-color: rgba(96, 112, 255, 1);
+  border-radius: 100px 0 0 0;
+  padding: 0;
+}
+
+.background-form {
+  background-image: url("./img/form-background.png");
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  padding: 103px 24px 45px 24px;
+}
