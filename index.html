@@ -431,7 +431,62 @@
           </div>
         </div>
       </section>
-      
+
+      <!--start section form -->
+      <section class="p-5 form-section" id="scrollspyContact">
+        <div class="container">
+          <div
+            class="d-flex flex-column justify-content-center align-items-center background-form"
+          >
+            <h2 class="display-3 fw-bolder text-light">Contact me</h2>
+            <p class="lead w-md-50 text-center text-light">
+              If you have an application you are interested in developing, a
+              feature that you need built or a project that needs coding.
+              <br />I’d love to help with it!
+            </p>
+            <form action="https://formspree.io/f/mqkovyzn" method="post">
+              <label for="name" class="form-label"></label>
+              <input
+                type="text"
+                name="userName"
+                id="name"
+                class="form-control"
+                required
+                placeholder="Full Name"
+                maxlength="30"
+              />
+
+              <label for="mail"></label>
+              <input
+                type="email"
+                name="userEmail"
+                id="mail"
+                class="form-control"
+                required
+                placeholder="loremipsum@gmail.com"
+              />
+
+              <label for="text"></label>
+              <textarea
+                name="userText"
+                id="text"
+                class="form-control mb-4"
+                required
+                placeholder="Write your message here..."
+                maxlength="500"
+                rows="6"
+                cols="40"
+              ></textarea>
+
+              <button type="submit" class="btn btn-outline-light">
+                Get in touch
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <!--end section form -->
     </main>
   </body>
 </html>
